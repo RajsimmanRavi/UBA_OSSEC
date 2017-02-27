@@ -1,0 +1,6 @@
+<group name="command">
+  <rule id="700005" level="12">
+    <decoded_as>command</decoded_as>
+    <description>Custom sudo command executed Alert</description>
+  </rule>
+</group>
